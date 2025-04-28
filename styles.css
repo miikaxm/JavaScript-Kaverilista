@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    text-align: center;
+    font-family: "Rubik", sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+}
+
+form {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+ol {
+    list-style-position: inside;
+}
